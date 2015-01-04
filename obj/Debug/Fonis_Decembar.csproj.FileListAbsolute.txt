@@ -1,0 +1,14 @@
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\bin\Debug\Fonis_Decembar.exe.config
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\bin\Debug\Database.mdf
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\bin\Debug\Database_log.ldf
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\bin\Debug\Fonis_Decembar.exe
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\bin\Debug\Fonis_Decembar.pdb
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.csprojResolveAssemblyReference.cache
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.Form1.resources
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.Properties.Resources.resources
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.csproj.GenerateResource.Cache
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.exe
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.pdb
+c:\users\nikolar\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.IzmeniPozoriste.resources
+C:\Users\NikolaR\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.GlumacForm.resources
+C:\Users\NikolaR\documents\visual studio 2013\Projects\Fonis_Decembar\Fonis_Decembar\obj\Debug\Fonis_Decembar.PredstaveForm2.resources
